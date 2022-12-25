@@ -1,6 +1,6 @@
 👋 Hi, I’m Sarah !
 
- 💻 I'm a young wanna be developer. I've started learning with C++, moved on to C, then got on with whatever else was thrown at me.
+ 💻 I'm a junior full-stack developer. I've started learning with C++, moved on to C, then got on with whatever else was thrown at me.
  Nowadays, my projects are either apps with Java/Kotlin or web with JS-derivates, but I'm always happy to go back to lower languages, and I still haven't gotten into Cobol even though I've been thinking about it for ages.
 
  📚 I love reading, wheter it's fantasy or sci-fi, and I'm also a writer when life doesn't get in the way.
